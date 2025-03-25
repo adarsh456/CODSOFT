@@ -11,11 +11,8 @@ Task 2: [ MOVIE RATING PREDICTION WITH PYTHON] - The model that predicts the rat
 
 Task 3: [IRIS FLOWER CLASSIFICATION] -  The Iris dataset to develop a model that can classify iris flowers into different species based on their sepal and petal measurements. 
 
-Task 4: [ SALES PREDICTION USING PYTHON] -  The Iris dataset to develop a model that can classify iris flowers into different species based on their sepal and petal measurements. 
+Task 4: [ SALES PREDICTION USING PYTHON] -The aim of this task is to utilize machine learning techniques in Python to analyze and interpret data, enabling businesses to make informed decisions regarding advertising costs. By leveraging these predictions, businesses can optimize their advertising strategies and maximize their sales potential.
 
-Task 5:[ SALES PREDICTION USING PYTHON] - The model that predict the future sales based on the past sales data.
-
-Task 5:[CREDIT CARD FRAUD DETECTION] -  The   machine learning model to identify fraudulent credit card transactions. In which Evaluate the model's performance using metrics like precision, recall,
- and F1-score, and consider techniques like oversampling or undersampling for improving results
+Task 5:[CREDIT CARD FRAUD DETECTION] -  The   machine learning model to identify fraudulent credit card transactions. In which Evaluate the model's performance using metrics like precision, recall,and F1-score, and consider techniques like oversampling or undersampling for improving results.
 
 
